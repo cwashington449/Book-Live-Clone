@@ -1,2 +1,1 @@
-# sb1-71m4q9vj
-Repository created by Bolt to GitHub extension
+Click on the link in the about section to view the app.
